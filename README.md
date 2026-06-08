@@ -1,19 +1,18 @@
-# Titanic Survival Prediction
+# Movie Rating Prediction
 
 ## Objective
-Build a machine learning model to predict whether a passenger survived the Titanic disaster.
+Predict movie ratings using machine learning based on features like Genre, Director, and Actor.
 
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
 - Scikit-Learn
 
 ## Model Used
-Random Forest Classifier
+Random Forest Regressor
 
-## Accuracy
-82.68%
+## Performance
+Mean Absolute Error: 1.05
 
 ## Dataset
-Titanic Dataset from Kaggle
+IMDb Movies India Dataset
